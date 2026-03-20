@@ -8,9 +8,9 @@ const sora = Sora({
 });
 
 export const metadata = {
-  title: "Kiract | Boutique Cinema & Tech Talent Management",
+  title: "Kiract | Cinema & Tech Talent Management",
   description:
-    "Kiract is a boutique management agency connecting global brands with elite cinema, film, and tech creators. Partner with viral film influencer @roldaniel5.",
+    "Kiract is a management agency connecting global brands with elite cinema, film, and tech creators. Partner with viral film influencer @roldaniel5.",
   keywords:
     "cinema influencer, film content creator, tiktok movie critic, tech brand partnerships, creator management agency, @roldaniel5, movie trivia influencer",
   authors: [{ name: "Kiract Agency" }],
@@ -18,14 +18,14 @@ export const metadata = {
   openGraph: {
     type: "website",
     url: "https://www.kiract.com/",
-    title: "Kiract | Boutique Cinema & Tech Talent Management",
+    title: "Kiract | Cinema & Tech Talent Management",
     description:
       "Connecting world-class brands with highly engaged cinema audiences through organic storytelling and viral content.",
     images: ["/preview-image.jpg"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Kiract | Boutique Cinema & Tech Talent Management",
+    title: "Kiract | Cinema & Tech Talent Management",
     description:
       "Connecting world-class brands with highly engaged cinema audiences through organic storytelling and viral content.",
     images: ["/preview-image.jpg"],
